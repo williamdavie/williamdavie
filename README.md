@@ -6,6 +6,4 @@
 
 _________________
 
-work with me:
-
-willdavie2002@gmail.com
+📩 willdavie2002@gmail.com 🌻
