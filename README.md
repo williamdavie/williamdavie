@@ -1,4 +1,4 @@
-###  🌷 🕊 Welcome 🪐 🌱
+## William Davie
 
 - 🧪 Physics
 - 👨‍💻 Scientific Computing
