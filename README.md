@@ -6,7 +6,4 @@ Computational Physics, Visualizations, Data Science
 ##
 willdavie2002@gmail.com 
 
-![](https://komarev.com/ghpvc/?username=DrDavie1&color=green)
-
-
 
