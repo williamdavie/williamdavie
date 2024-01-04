@@ -6,4 +6,5 @@ Computational Physics, Visualizations, Data Science
 ##
 willdavie2002@gmail.com 
 
+https://www.youtube.com/channel/UCby0qTApQcqaW-EPM5MItbw
 
