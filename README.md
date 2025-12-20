@@ -1,6 +1,11 @@
-## William Davie
+Quantum materials are materials that exhibit non-trivial _exotic_ properties as a direct consequence of quantum mechanics.
 
-willdavie2002@gmail.com 
+Supported by the NDA, my PhD focuses the behaviour of Helium in Plutonium Dioxide. Plutonium has highly correlated electrons and exhibits rich quantum physics. I am working on understanding how to effectively train Machine Learning Potentials to capture of exotic behaviour of both Plutonium and additional highly correlated materials. 
 
-https://www.youtube.com/channel/UCby0qTApQcqaW-EPM5MItbw
+Furthermore, I am interested in the development of the tools and algorithms to aid accurate quantum mechanical calculations, ML model accuracy and model training. 
+
+> William Davie, willdavie2002@gmail.com.
+>
+> Department of Material Science and Metallurgy, University of Cambridge.
+
 
